@@ -1,0 +1,24 @@
+body {
+  background-color: #f2f2f2; }
+
+.navbar .navbar-header .navbar-brand {
+  color: #f77d20; }
+
+.navbar .animalIcon {
+  float: right;
+  height: 50px;
+  width: auto;
+  transition: all 0.2s ease-in; }
+
+.navbar .animalIcon:hover {
+  height: 75px;
+  width: auto;
+  transition: all 0.2s ease-in; }
+
+.container .nav li a span {
+  font-weight: bold; }
+
+.container .tab-content .yt-video {
+  margin-top: 50px; }
+
+/*# sourceMappingURL=style.css.map */
